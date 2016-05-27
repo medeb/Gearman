@@ -1,0 +1,13 @@
+<html>
+<head>
+	<title>sms</title>
+</head>
+
+<body>
+	<form action="gclient.php" method="get">
+		<input type="text" id="getsms" placeholder="type sms..."><br>
+		<input type="submit" value="Send">
+	</form>
+</body>
+
+</html>
